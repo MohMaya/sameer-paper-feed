@@ -17,7 +17,7 @@ Token also in `feed_meta.json`. Do not paste into Slack.
 
 ## Status
 
-**GitHub Pages live** from `main` branch path `/`. Public RSS URL above.
+**GitHub Pages is live** (source: `main` /). Public RSS URL above returns 200.
 
 ## Publish
 
