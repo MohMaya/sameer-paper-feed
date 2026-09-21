@@ -1,9 +1,11 @@
 {
-  "title": "Sameer — The Paper",
-  "description": "Shivanshu’s daily Economist-style morning paper (~20 min). India → Asia-Pac → world; finance + tech deep.",
+  "title": "Sameer \u2014 The Paper",
+  "description": "Shivanshu\u2019s daily Economist-style morning paper (~20 min). India \u2192 Asia-Pac \u2192 world; finance + tech deep.",
   "language": "en-us",
   "author": "Sameer, Paper",
   "token": "1VmfXNUkh-XVFhGMbzOlGxKhUBvJu6UA",
   "planned_public_base": "https://mohmaya.github.io/sameer-paper-feed",
-  "status": "live"
+  "status": "live",
+  "public_rss_url": "https://mohmaya.github.io/sameer-paper-feed/feeds/1VmfXNUkh-XVFhGMbzOlGxKhUBvJu6UA/rss.xml",
+  "repo": "https://github.com/MohMaya/sameer-paper-feed"
 }
