@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Sameer — The Paper</title>
+<description>Shivanshu’s daily Economist-style morning paper (~20 min). India → Asia-Pac → world; finance + tech deep.</description>
+<language>en-us</language>
+<link>https://mohmaya.github.io/sameer-paper-feed/feeds/1VmfXNUkh-XVFhGMbzOlGxKhUBvJu6UA/rss.xml</link>
+<atom:link href="https://mohmaya.github.io/sameer-paper-feed/feeds/1VmfXNUkh-XVFhGMbzOlGxKhUBvJu6UA/rss.xml" rel="self" type="application/rss+xml"/>
+<managingEditor>sameer@paper (Sameer, Paper)</managingEditor>
+<generator>sameer-paper-feed/0.1</generator>
+</channel>
+</rss>
